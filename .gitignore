@@ -1,0 +1,35 @@
+##
+## cet-cli directories 
+##
+.vs
+.vscode
+[Bb]in
+[Bb]uild
+
+
+##
+## cet-cli extensions
+##
+**.bak
+**.bak1
+**.bak2
+**.bak3
+**.code-workspace
+
+
+##
+## cet-cli specific files
+##
+
+
+##
+## internal
+##
+test
+test.c
+test.cc
+test.cpp
+test.exe
+test.o
+test.h
+test.hpp
